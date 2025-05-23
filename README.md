@@ -1,5 +1,23 @@
 <h2 align="center">👋 Hello, World! I'm João Vítor Góes - Software Development Student 💻</h2>
 
+<p align="center">
+ 👨‍💻 I am a Software Development student passionate about technology and innovation. I am currently pursuing a degree in Multiplatform Software Development at FATEC in São José dos Campos (São Paulo, Brazil), where I have been developing skills in various programming languages and development tools.
+</p>
+
+<br/>
+
+<div align="center">
+  <img 
+    src="https://imgur.com/aJ7um4j.gif" 
+    alt="Profile GIF" 
+    height="150"
+  />
+</div>
+
+<br/>
+
+---
+
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
@@ -17,11 +35,7 @@
 
 <br/>
 
-<p align="center">
-  I am a Software Development student passionate about technology and innovation. I am currently pursuing a degree in Multiplatform Software Development at FATEC in São José dos Campos (São Paulo, Brazil), where I have been developing skills in various programming languages and development tools.
-</p>
-
-<br/>
+---
 
 <h3 align="center">🛠 Technologies I Use</h3>
 
@@ -40,26 +54,19 @@
 
 <br/>
 
+---
+
 <h3 align="center">🌐 Connect with Me</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joaovitorgoes" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="https://github.com/MagNumGomes" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
   <a href="mailto:joaogg10@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
 </div>
 
-<br/>
-
-<div align="center">
-  <img 
-    src="https://imgur.com/aJ7um4j.gif" 
-    alt="Profile GIF" 
-    height="150"
-  />
-</div>

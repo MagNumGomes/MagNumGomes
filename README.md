@@ -59,13 +59,13 @@
 <h3 align="center">🌐 Connect with Me</h3>
 
 <div align="center">
+ <a href="mailto:joaogg10@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=flat&logo=gmail&logoColor=white" height="35" />
+  </a>
   <a href="https://www.linkedin.com/in/joaovitorgoes" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" height="35" />
   </a>
   <a href="https://discord.com/users/magnumgomes" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-%232C2F33?style=flat&logo=discord&logoColor=white" height="35" />
-  </a>
-  <a href="mailto:joaogg10@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=flat&logo=gmail&logoColor=white" height="35" />
   </a>
 </div>

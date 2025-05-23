@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello, World! I'm João Vítor Góes - Software Development Student 💻</h2>
+<h2 align="center">👋 Hello, World! I'm João Vítor Góes!</h2>
 
 <p align="center">
  👨‍💻 I am a Software Development student passionate about technology and innovation. I am currently pursuing a degree in Multiplatform Software Development at FATEC in São José dos Campos (São Paulo, Brazil), where I have been developing skills in various programming languages and development tools.

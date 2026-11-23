@@ -41,7 +41,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,react,tailwind,flutter,nodejs,fastapi,mysql,docker,linux,grafana" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,react,tailwind,flutter,nodejs,fastapi,mysql,docker,grafana" alt="Tech Stack" />
   </a>
 </div>
 
